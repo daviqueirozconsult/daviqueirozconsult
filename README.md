@@ -1,6 +1,6 @@
 ## **Sobre a daviqueirozconsult**
 
-**daviqueirozconsult** é uma consultoria especializada em desenvolvimento de software, arquitetura de sistemas e soluções tecnológicas customizadas. Fundada por **Davi Silva Queiroz**, um experiente desenvolvedor Full Stack, a empresa oferece serviços de alto nível em diversas tecnologias para empresas que buscam otimizar suas operações e implementar soluções digitais inovadoras.
+**Orion ** é uma empresa especializada em desenvolvimento de software, arquitetura de sistemas e soluções tecnológicas customizadas. Fundada por **Davi Silva Queiroz**, um experiente desenvolvedor Full Stack, a empresa oferece serviços de alto nível em diversas tecnologias para empresas que buscam otimizar suas operações e implementar soluções digitais inovadoras.
 
 ### **Missão:**
 Proporcionar soluções inovadoras, eficazes e seguras para nossos clientes, com foco em excelência no desenvolvimento de sistemas, consultoria em tecnologia e implementação de práticas ágeis.
